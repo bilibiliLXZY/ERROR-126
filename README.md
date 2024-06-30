@@ -9,6 +9,7 @@ This is __only__ for _report bugs_ and ***upgrade new version*** use.
 Umm... Because I just want to do it myself
 ## How to recover computer while the virus run?
 Ummmmmm... It will be added in new version so I added this.
+It isn't tested
 ### What do I need?
 Please download a WinPE and install it to a UDisk.
 
