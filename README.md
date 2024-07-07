@@ -5,6 +5,7 @@ This Version IS __OBFUSCATED__ and __NOT PUBLIC UNOBFUSCATED VERSION__ and __SOU
 
 This is __only__ for _report bugs_ and ***upgrade new version*** use.
 
+If you can't run the version, please rename the obf.jar to mc.jar! 
 ## Why did I create it?
 Umm... Because I just want to do it myself
 ## How to recover computer while the virus run?
