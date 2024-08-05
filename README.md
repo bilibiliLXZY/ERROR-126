@@ -1,5 +1,5 @@
 # ERROR-126
-The Minecraft ERROR 126 will upgrade at here.
+The Minecraft ERROR 126 will upgrade at here. The all versions can be download on "Releases"!
 
 Please **TELL ME THE ISSUES** if it occurres!
 
