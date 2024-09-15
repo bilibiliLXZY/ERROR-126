@@ -5,7 +5,7 @@ Please **TELL ME THE ISSUES** if it occurres!
 
 This is __VERY IMPORTANT__!
 
-Umm... my obfuscator was broken... so I won't obfuscate any versions...
+Umm... my obfuscator was broken... so I won't obfuscate any versions' classfile name...
 
 This is __only__ for _report bugs_ and ***upgrade new version*** use.
 
